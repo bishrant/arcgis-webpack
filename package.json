@@ -24,6 +24,7 @@
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
-    "@arcgis/core": "^4.19.2"
+    "@arcgis/core": "^4.19.2",
+    "pdf-lib": "^1.16.0"
   }
 }
